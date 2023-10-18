@@ -1,0 +1,1 @@
+An example for node.js. Continuation of note.txt file using appendFileSync method
